@@ -8,8 +8,25 @@
   </ul>
 </div>
 
+<h3 align="center">Full-Stack Software Developer | Web & Mobile | Automation</h3>
 
+<p align="center">
+  Building scalable web apps with <b>React / Next.js</b> and <b>Express.js / Supabase</b>, crafting mobile
+  experiences with <b>Flutter</b>, and automating workflows with <b>n8n</b> and custom chatbots.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jawad-achraf-77b955271/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jawad-achraf.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:achrafjaouad00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Casablanca%2C%20Morocco-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 <!--- snake -->
 <div align="center">
@@ -17,9 +34,20 @@
        alt="snake" /></a>
 </div>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🚀 About Me</h2></summary>
+  </ul>
+</div>
 
-<!--h2 without bottom border-->
-
+- 🔭 Currently building web apps with **Next.js**, **Express.js** and **Supabase**
+- 📱 Also developing mobile apps with **Flutter** / **FlutterFlow**, including real-time geolocation features
+- ⚙️ Designing automation workflows and intelligent chatbots with **n8n**
+- 🎨 Building & optimizing **WordPress** sites (design, functionality, SEO)
+- 🐘 Comfortable across the stack: **PostgreSQL triggers**, REST APIs, and React/Redux state management
+- 🎓 Professional Bachelor's in Web & Mobile Application Development — EST Casablanca (2026)
+- 🌐 Languages: Arabic (native), English (professional), French (intermediate)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -30,7 +58,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,graphql,powershell,vercel,git,bootstrap,c,discord,express,git,gitlab,docker,figma,ps,pr,github,html,css,js,jquery,linux,materialui,mongodb,mysql,nodejs,nextjs,postman,py,php,laravel,react,redux,tailwind,ts,vite,flutter,supabase,firebase,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,php,dart,react,redux,nextjs,nodejs,express,laravel,html,css,bootstrap,tailwind,mysql,postgres,mongodb,firebase,supabase,git,github,gitlab,docker,figma,ps,vscode,linux,wordpress,jira,trello,postman,flutter&perline=14" />
   </a>
 </p>
 
