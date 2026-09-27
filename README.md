@@ -48,6 +48,7 @@
 - 🐘 Comfortable across the stack: **PostgreSQL triggers**, REST APIs, and React/Redux state management
 - 🎓 Professional Bachelor's in Web & Mobile Application Development — EST Casablanca (2026)
 - 🌐 Languages: Arabic (native), English (professional), French (intermediate)
+- 🗂️ Project management: Jira, Trello, ClickUp
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -58,7 +59,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,php,dart,react,redux,nextjs,nodejs,express,laravel,html,css,bootstrap,tailwind,mysql,postgres,mongodb,firebase,supabase,git,github,gitlab,docker,figma,ps,vscode,linux,wordpress,jira,trello,postman,flutter&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,php,dart,react,redux,nextjs,nodejs,express,laravel,html,css,bootstrap,tailwind,mysql,postgres,mongodb,firebase,supabase,git,github,gitlab,docker,figma,ps,vscode,linux,wordpress,postman,flutter&perline=14" />
   </a>
 </p>
 
